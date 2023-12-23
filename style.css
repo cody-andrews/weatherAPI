@@ -1,0 +1,10 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body  {
+  margin: 0;
+  background-image: url("..//weatherAPI/public/icons//background image//samuel-ferrara-uGhjqJzjvHA-unsplash.jpg");
+  background-size: 100%;
+  
+}
